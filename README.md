@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Devvilas
+- 👋 Hi, I’m @SaoriKitsune
 - 👀 I’m interested in coding with multi-languages
-- 🌱 I’m currently learning python
 - 🐧 I love Linux!
 
 <!---
