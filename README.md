@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @devvilas
-- 👀 I’m interested in coding with multi-languages
+- 👨‍💻 Coding since I was 6 years old!
 - 🐧 I love Linux!
+- 💼 I'm interested in working on Cybersecurity, PenTester or Network Engineering!
+- 📚 Currently on High-School! (School years before going to college: 1/3)
 
 <!---
 Devvilas/Devvilas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
